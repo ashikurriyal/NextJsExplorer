@@ -11,7 +11,7 @@ const categoriesDetailsPage = ({params}) => {
     )}
     return (
         <div className='text-xl h-screen text-center font-semibold'>
-            This is Categories Details Page. where i will show the catagory details
+            This is Categories Details.
         </div>
     );
 };
