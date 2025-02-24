@@ -11,7 +11,7 @@ const categoriesDetailsPage = ({params}) => {
     )}
     return (
         <div className='text-xl h-screen text-center font-semibold'>
-            This is Categories Details.
+            This is Categories Details. Updated page. 
         </div>
     );
 };
