@@ -12,7 +12,7 @@ const page = () => {
           <h3 className="font-bold text-2xl">{blog.title}</h3>
           <p className="font-medium">{blog.description}</p>
           <button className="bg-teal-600 px-6 py-4 rounded-xl text-white font-semibold">
-            <Link href={`blogs/${blog.slug}`}>View Details</Link>
+            <Link href={`blogs/${blog.slug}`}>View Details from here</Link>
           </button>
         </div>
       ))}
